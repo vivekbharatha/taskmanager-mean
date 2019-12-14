@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+@import './main.css';
+
+$font-color: #6ba8a9;
+
+h1,h2,h3,h4,p {
+  color: $font-color;
+}
